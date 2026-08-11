@@ -1,0 +1,239 @@
+{
+  "start_date": "2022-01-01",
+  "end_date": "2024-12-31",
+  "raw_rows": 82448,
+  "window_rows": 12802,
+  "unique_properties": 12105,
+  "below_c_count": 4770,
+  "below_c_pct": 39.405204460966544,
+  "median_sap": 70.0,
+  "feature_cols": [
+    "PROPERTY_TYPE",
+    "BUILT_FORM",
+    "AGE_BAND_CLEAN",
+    "TOTAL_FLOOR_AREA",
+    "NUMBER_HABITABLE_ROOMS",
+    "MAIN_FUEL_CAT",
+    "GLAZED_AREA",
+    "WALL_CATEGORY",
+    "ROOF_CATEGORY",
+    "WINDOW_CATEGORY",
+    "HEATING_CATEGORY",
+    "LOW_ENERGY_LIGHTING",
+    "MECHANICAL_VENTILATION",
+    "REPORT_TYPE",
+    "PHOTO_SUPPLY",
+    "SOLAR_WATER_HEATING_FLAG",
+    "FLOOR_HEIGHT"
+  ],
+  "cat_cols": [
+    "PROPERTY_TYPE",
+    "BUILT_FORM",
+    "AGE_BAND_CLEAN",
+    "MAIN_FUEL_CAT",
+    "GLAZED_AREA",
+    "WALL_CATEGORY",
+    "ROOF_CATEGORY",
+    "WINDOW_CATEGORY",
+    "HEATING_CATEGORY",
+    "MECHANICAL_VENTILATION",
+    "REPORT_TYPE",
+    "SOLAR_WATER_HEATING_FLAG"
+  ],
+  "num_cols": [
+    "TOTAL_FLOOR_AREA",
+    "NUMBER_HABITABLE_ROOMS",
+    "LOW_ENERGY_LIGHTING",
+    "PHOTO_SUPPLY",
+    "FLOOR_HEIGHT"
+  ],
+  "medians": {
+    "TOTAL_FLOOR_AREA": 71.0,
+    "NUMBER_HABITABLE_ROOMS": 4.0,
+    "LOW_ENERGY_LIGHTING": 100.0,
+    "PHOTO_SUPPLY": 0.0,
+    "FLOOR_HEIGHT": 2.4
+  },
+  "categories": {
+    "PROPERTY_TYPE": [
+      "Bungalow",
+      "Flat",
+      "House",
+      "Maisonette"
+    ],
+    "BUILT_FORM": [
+      "Detached",
+      "Enclosed End-Terrace",
+      "Enclosed Mid-Terrace",
+      "End-Terrace",
+      "Mid-Terrace",
+      "Semi-Detached"
+    ],
+    "AGE_BAND_CLEAN": [
+      "1900-1929",
+      "1930-1949",
+      "1950-1966",
+      "1967-1975",
+      "1976-1982",
+      "1983-1990",
+      "1991-1995",
+      "1996-2002",
+      "2003-2006",
+      "2007-2011",
+      "2012 onwards",
+      "before 1900"
+    ],
+    "MAIN_FUEL_CAT": [
+      "Electricity",
+      "Electricity - community",
+      "Gas - community",
+      "Mains gas",
+      "Oil",
+      "Other",
+      "Solid fuel/biomass",
+      "Unknown"
+    ],
+    "GLAZED_AREA": [
+      "Less Than Typical",
+      "More Than Typical",
+      "Much Less Than Typical",
+      "Much More Than Typical",
+      "Normal",
+      "Unknown"
+    ],
+    "WALL_CATEGORY": [
+      "Insulated",
+      "Modern/quantified",
+      "No insulation",
+      "Other/unknown",
+      "Partial/limited insulation",
+      "Timber frame - unspecified"
+    ],
+    "ROOF_CATEGORY": [
+      "100-199 mm",
+      "200-299 mm",
+      "300+ mm",
+      "<100 mm",
+      "Insulated - unspecified",
+      "Limited insulation",
+      "Modern/quantified",
+      "No exposed roof / premises above",
+      "No insulation",
+      "Other/unknown"
+    ],
+    "WINDOW_CATEGORY": [
+      "Full double glazing",
+      "High-performance glazing",
+      "Other/unknown",
+      "Partial/mostly double glazing",
+      "Secondary glazing",
+      "Single glazing"
+    ],
+    "HEATING_CATEGORY": [
+      "Community heating",
+      "Electric boiler",
+      "Electric room/resistance heating",
+      "Electric storage heaters",
+      "Electric underfloor",
+      "Gas boiler",
+      "Gas warm-air/room heating",
+      "Heat pump",
+      "Oil heating",
+      "Other heating",
+      "Solid fuel/biomass"
+    ],
+    "MECHANICAL_VENTILATION": [
+      "Unknown",
+      "mechanical, extract only",
+      "mechanical, supply and extract",
+      "natural"
+    ],
+    "REPORT_TYPE": [
+      "100",
+      "101"
+    ],
+    "SOLAR_WATER_HEATING_FLAG": [
+      "N",
+      "Unknown",
+      "Y"
+    ]
+  },
+  "temporal_metrics": {
+    "Model": "CatBoost temporal holdout",
+    "Accuracy": 0.809322033898305,
+    "Precision": 0.7785765636232926,
+    "Recall": 0.7244147157190636,
+    "F1": 0.7505197505197505,
+    "ROC_AUC": 0.8910379329608119,
+    "PR_AUC": 0.85784286946738,
+    "ConfusionMatrix": [
+      [
+        1973,
+        308
+      ],
+      [
+        412,
+        1083
+      ]
+    ]
+  },
+  "model_metrics": [
+    {
+      "Model": "Logistic Regression",
+      "Accuracy": 0.8199091284593143,
+      "Precision": 0.7796976241900648,
+      "Recall": 0.7568134171907757,
+      "F1": 0.7680851063829788,
+      "ROC_AUC": 0.9016111261162773,
+      "PR_AUC": 0.8652131005157588,
+      "ConfusionMatrix": [
+        [
+          1263,
+          204
+        ],
+        [
+          232,
+          722
+        ]
+      ]
+    },
+    {
+      "Model": "Random Forest",
+      "Accuracy": 0.8215613382899628,
+      "Precision": 0.7843137254901961,
+      "Recall": 0.7547169811320755,
+      "F1": 0.7692307692307693,
+      "ROC_AUC": 0.9055953549722119,
+      "PR_AUC": 0.8719519698787818,
+      "ConfusionMatrix": [
+        [
+          1269,
+          198
+        ],
+        [
+          234,
+          720
+        ]
+      ]
+    },
+    {
+      "Model": "CatBoost",
+      "Accuracy": 0.8372573316811235,
+      "Precision": 0.8083700440528634,
+      "Recall": 0.7693920335429769,
+      "F1": 0.7883995703544576,
+      "ROC_AUC": 0.9121969135087937,
+      "PR_AUC": 0.8812619999493184,
+      "ConfusionMatrix": [
+        [
+          1293,
+          174
+        ],
+        [
+          220,
+          734
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1588 @@
+{
+  "Bungalow|||1900-1929|||Insulated": [
+    {
+      "text": "Solar water heating",
+      "count": 2
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 2
+    },
+    {
+      "text": "Floor insulation (suspended floor)",
+      "count": 1
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 1
+    },
+    {
+      "text": "High heat retention storage heaters",
+      "count": 1
+    }
+  ],
+  "Bungalow|||1900-1929|||No insulation": [
+    {
+      "text": "Internal or external wall insulation",
+      "count": 5
+    },
+    {
+      "text": "Solar water heating",
+      "count": 5
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 5
+    },
+    {
+      "text": "Floor insulation (suspended floor)",
+      "count": 3
+    },
+    {
+      "text": "Replace boiler with new condensing boiler",
+      "count": 3
+    }
+  ],
+  "Bungalow|||1930-1949|||Insulated": [
+    {
+      "text": "Solar water heating",
+      "count": 9
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 9
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 6
+    },
+    {
+      "text": "Floor insulation (suspended floor)",
+      "count": 3
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 3
+    }
+  ],
+  "Bungalow|||1930-1949|||No insulation": [
+    {
+      "text": "Solar water heating",
+      "count": 12
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 12
+    },
+    {
+      "text": "Cavity wall insulation",
+      "count": 9
+    },
+    {
+      "text": "Floor insulation (suspended floor)",
+      "count": 9
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 7
+    }
+  ],
+  "Bungalow|||1950-1966|||Insulated": [
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 47
+    },
+    {
+      "text": "Solar water heating",
+      "count": 47
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 46
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 27
+    },
+    {
+      "text": "Internal or external wall insulation",
+      "count": 7
+    }
+  ],
+  "Bungalow|||1950-1966|||No insulation": [
+    {
+      "text": "Cavity wall insulation",
+      "count": 15
+    },
+    {
+      "text": "Solar water heating",
+      "count": 15
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 15
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 14
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 9
+    }
+  ],
+  "Bungalow|||1967-1975|||Insulated": [
+    {
+      "text": "Solar water heating",
+      "count": 36
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 35
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 34
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 17
+    },
+    {
+      "text": "Increase loft insulation to 270\u00a0mm",
+      "count": 11
+    }
+  ],
+  "Bungalow|||1967-1975|||No insulation": [
+    {
+      "text": "Cavity wall insulation",
+      "count": 18
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 18
+    },
+    {
+      "text": "Solar water heating",
+      "count": 18
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 18
+    },
+    {
+      "text": "Increase loft insulation to 270\u00a0mm",
+      "count": 9
+    }
+  ],
+  "Bungalow|||1976-1982|||Insulated": [
+    {
+      "text": "Solar water heating",
+      "count": 47
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 47
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 45
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 23
+    },
+    {
+      "text": "Party wall insulation",
+      "count": 12
+    }
+  ],
+  "Bungalow|||1976-1982|||Partial/limited insulation": [
+    {
+      "text": "Solar water heating",
+      "count": 25
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 25
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 24
+    },
+    {
+      "text": "Cavity wall insulation",
+      "count": 24
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 15
+    }
+  ],
+  "Bungalow|||1983-1990|||Insulated": [
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 91
+    },
+    {
+      "text": "Solar water heating",
+      "count": 91
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 91
+    },
+    {
+      "text": "Increase loft insulation to 270\u00a0mm",
+      "count": 30
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 24
+    }
+  ],
+  "Bungalow|||1991-1995|||Insulated": [
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 2
+    },
+    {
+      "text": "Solar water heating",
+      "count": 2
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 2
+    },
+    {
+      "text": "Increase loft insulation to 270\u00a0mm",
+      "count": 1
+    }
+  ],
+  "Bungalow|||1996-2002|||Insulated": [
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 2
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 2
+    },
+    {
+      "text": "Solar water heating",
+      "count": 2
+    },
+    {
+      "text": "Increase loft insulation to 270\u00a0mm",
+      "count": 1
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 1
+    }
+  ],
+  "Bungalow|||2007-2011|||Insulated": [
+    {
+      "text": "Increase loft insulation to 270\u00a0mm",
+      "count": 1
+    },
+    {
+      "text": "High heat retention storage heaters",
+      "count": 1
+    },
+    {
+      "text": "Solar water heating",
+      "count": 1
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 1
+    }
+  ],
+  "Bungalow|||2012 onwards|||Modern/quantified": [
+    {
+      "text": "Solar water heating",
+      "count": 1
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 1
+    }
+  ],
+  "Bungalow|||before 1900|||No insulation": [
+    {
+      "text": "Internal or external wall insulation",
+      "count": 3
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 3
+    },
+    {
+      "text": "Solar water heating",
+      "count": 3
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 2
+    },
+    {
+      "text": "Cavity wall insulation",
+      "count": 1
+    }
+  ],
+  "Flat|||1900-1929|||Insulated": [
+    {
+      "text": "High heat retention storage heaters",
+      "count": 5
+    },
+    {
+      "text": "Heat recovery system for mixer showers",
+      "count": 4
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 3
+    },
+    {
+      "text": "Floor insulation (suspended floor)",
+      "count": 2
+    },
+    {
+      "text": "Cavity wall insulation",
+      "count": 1
+    }
+  ],
+  "Flat|||1900-1929|||No insulation": [
+    {
+      "text": "Internal or external wall insulation",
+      "count": 123
+    },
+    {
+      "text": "Replace single glazed windows with low-E double glazed windows",
+      "count": 38
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 32
+    },
+    {
+      "text": "Floor insulation (suspended floor)",
+      "count": 27
+    },
+    {
+      "text": "Increase loft insulation to 270\u00a0mm",
+      "count": 19
+    }
+  ],
+  "Flat|||1900-1929|||Timber frame - unspecified": [
+    {
+      "text": "High heat retention storage heaters",
+      "count": 1
+    },
+    {
+      "text": "Heat recovery system for mixer showers",
+      "count": 1
+    }
+  ],
+  "Flat|||1930-1949|||Insulated": [
+    {
+      "text": "Internal or external wall insulation",
+      "count": 13
+    },
+    {
+      "text": "Replace boiler with new condensing boiler",
+      "count": 10
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 10
+    },
+    {
+      "text": "Add additional 80\u00a0mm jacket to hot water cylinder",
+      "count": 6
+    },
+    {
+      "text": "Increase loft insulation to 270\u00a0mm",
+      "count": 5
+    }
+  ],
+  "Flat|||1930-1949|||No insulation": [
+    {
+      "text": "Cavity wall insulation",
+      "count": 25
+    },
+    {
+      "text": "Internal or external wall insulation",
+      "count": 21
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 13
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 13
+    },
+    {
+      "text": "Flat roof or sloping ceiling insulation",
+      "count": 9
+    }
+  ],
+  "Flat|||1950-1966|||Insulated": [
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 36
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 34
+    },
+    {
+      "text": "Replace boiler with new condensing boiler",
+      "count": 30
+    },
+    {
+      "text": "Internal or external wall insulation",
+      "count": 16
+    },
+    {
+      "text": "Flat roof or sloping ceiling insulation",
+      "count": 16
+    }
+  ],
+  "Flat|||1950-1966|||No insulation": [
+    {
+      "text": "Cavity wall insulation",
+      "count": 43
+    },
+    {
+      "text": "Internal or external wall insulation",
+      "count": 32
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 27
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 25
+    },
+    {
+      "text": "Flat roof or sloping ceiling insulation",
+      "count": 17
+    }
+  ],
+  "Flat|||1950-1966|||Partial/limited insulation": [
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 1
+    },
+    {
+      "text": "Replace single glazed windows with low-E double glazed windows",
+      "count": 1
+    }
+  ],
+  "Flat|||1967-1975|||Insulated": [
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 39
+    },
+    {
+      "text": "Internal or external wall insulation",
+      "count": 32
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 30
+    },
+    {
+      "text": "Flat roof or sloping ceiling insulation",
+      "count": 24
+    },
+    {
+      "text": "Replace boiler with new condensing boiler",
+      "count": 18
+    }
+  ],
+  "Flat|||1967-1975|||No insulation": [
+    {
+      "text": "Cavity wall insulation",
+      "count": 74
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 22
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 19
+    },
+    {
+      "text": "Flat roof or sloping ceiling insulation",
+      "count": 16
+    },
+    {
+      "text": "High heat retention storage heaters and dual immersion cylinder",
+      "count": 15
+    }
+  ],
+  "Flat|||1967-1975|||Partial/limited insulation": [
+    {
+      "text": "Flat roof or sloping ceiling insulation",
+      "count": 3
+    },
+    {
+      "text": "Cavity wall insulation",
+      "count": 2
+    },
+    {
+      "text": "Floor insulation (suspended floor)",
+      "count": 1
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 1
+    },
+    {
+      "text": "Add additional 80\u00a0mm jacket to hot water cylinder",
+      "count": 1
+    }
+  ],
+  "Flat|||1976-1982|||Insulated": [
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 7
+    },
+    {
+      "text": "Increase loft insulation to 270\u00a0mm",
+      "count": 6
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 6
+    },
+    {
+      "text": "Add additional 80\u00a0mm jacket to hot water cylinder",
+      "count": 5
+    },
+    {
+      "text": "Change room heaters to condensing boiler",
+      "count": 4
+    }
+  ],
+  "Flat|||1976-1982|||Partial/limited insulation": [
+    {
+      "text": "Cavity wall insulation",
+      "count": 36
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 16
+    },
+    {
+      "text": "High heat retention storage heaters and dual immersion cylinder",
+      "count": 11
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 11
+    },
+    {
+      "text": "Replace boiler with new condensing boiler",
+      "count": 6
+    }
+  ],
+  "Flat|||1983-1990|||Insulated": [
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 21
+    },
+    {
+      "text": "High heat retention storage heaters and dual immersion cylinder",
+      "count": 20
+    },
+    {
+      "text": "Increase loft insulation to 270\u00a0mm",
+      "count": 18
+    },
+    {
+      "text": "High heat retention storage heaters",
+      "count": 15
+    },
+    {
+      "text": "Add additional 80\u00a0mm jacket to hot water cylinder",
+      "count": 12
+    }
+  ],
+  "Flat|||1991-1995|||Insulated": [
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 13
+    },
+    {
+      "text": "High heat retention storage heaters",
+      "count": 12
+    },
+    {
+      "text": "High heat retention storage heaters and dual immersion cylinder",
+      "count": 7
+    },
+    {
+      "text": "Heat recovery system for mixer showers",
+      "count": 5
+    },
+    {
+      "text": "Increase loft insulation to 270\u00a0mm",
+      "count": 4
+    }
+  ],
+  "Flat|||1996-2002|||Insulated": [
+    {
+      "text": "High heat retention storage heaters and dual immersion cylinder",
+      "count": 7
+    },
+    {
+      "text": "Heat recovery system for mixer showers",
+      "count": 4
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 4
+    },
+    {
+      "text": "Increase loft insulation to 270\u00a0mm",
+      "count": 3
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 2
+    }
+  ],
+  "Flat|||2003-2006|||Insulated": [
+    {
+      "text": "Heat recovery system for mixer showers",
+      "count": 13
+    },
+    {
+      "text": "High heat retention storage heaters and dual immersion cylinder",
+      "count": 12
+    },
+    {
+      "text": "High heat retention storage heaters",
+      "count": 8
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 4
+    },
+    {
+      "text": "Replace single glazed windows with low-E double glazed windows",
+      "count": 2
+    }
+  ],
+  "Flat|||2007-2011|||Insulated": [
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 3
+    },
+    {
+      "text": "High heat retention storage heaters",
+      "count": 3
+    },
+    {
+      "text": "Heat recovery system for mixer showers",
+      "count": 3
+    },
+    {
+      "text": "High heat retention storage heaters and dual immersion cylinder",
+      "count": 3
+    },
+    {
+      "text": "Replace single glazed windows with low-E double glazed windows",
+      "count": 3
+    }
+  ],
+  "Flat|||2012 onwards|||Insulated": [
+    {
+      "text": "High heat retention storage heaters and dual immersion cylinder",
+      "count": 4
+    },
+    {
+      "text": "High heat retention storage heaters",
+      "count": 2
+    },
+    {
+      "text": "Heat recovery system for mixer showers",
+      "count": 1
+    }
+  ],
+  "Flat|||before 1900|||Insulated": [
+    {
+      "text": "High heat retention storage heaters",
+      "count": 3
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 2
+    },
+    {
+      "text": "Flat roof or sloping ceiling insulation",
+      "count": 1
+    },
+    {
+      "text": "High heat retention storage heaters and dual immersion cylinder",
+      "count": 1
+    },
+    {
+      "text": "Floor insulation (suspended floor)",
+      "count": 1
+    }
+  ],
+  "Flat|||before 1900|||No insulation": [
+    {
+      "text": "Internal or external wall insulation",
+      "count": 134
+    },
+    {
+      "text": "Replace single glazed windows with low-E double glazed windows",
+      "count": 51
+    },
+    {
+      "text": "Floor insulation (suspended floor)",
+      "count": 36
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 33
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 26
+    }
+  ],
+  "House|||1900-1929|||Insulated": [
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 50
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 44
+    },
+    {
+      "text": "Solar water heating",
+      "count": 36
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 26
+    },
+    {
+      "text": "Room-in-roof insulation",
+      "count": 16
+    }
+  ],
+  "House|||1900-1929|||Modern/quantified": [
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 1
+    }
+  ],
+  "House|||1900-1929|||No insulation": [
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 722
+    },
+    {
+      "text": "Internal or external wall insulation",
+      "count": 713
+    },
+    {
+      "text": "Solar water heating",
+      "count": 683
+    },
+    {
+      "text": "Floor insulation (suspended floor)",
+      "count": 510
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 153
+    }
+  ],
+  "House|||1930-1949|||Insulated": [
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 192
+    },
+    {
+      "text": "Solar water heating",
+      "count": 162
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 150
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 82
+    },
+    {
+      "text": "Replace boiler with new condensing boiler",
+      "count": 60
+    }
+  ],
+  "House|||1930-1949|||No insulation": [
+    {
+      "text": "Solar water heating",
+      "count": 225
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 221
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 156
+    },
+    {
+      "text": "Cavity wall insulation",
+      "count": 134
+    },
+    {
+      "text": "Internal or external wall insulation",
+      "count": 99
+    }
+  ],
+  "House|||1950-1966|||Insulated": [
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 328
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 309
+    },
+    {
+      "text": "Solar water heating",
+      "count": 306
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 139
+    },
+    {
+      "text": "Replace boiler with new condensing boiler",
+      "count": 114
+    }
+  ],
+  "House|||1950-1966|||No insulation": [
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 223
+    },
+    {
+      "text": "Solar water heating",
+      "count": 223
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 160
+    },
+    {
+      "text": "Cavity wall insulation",
+      "count": 109
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 93
+    }
+  ],
+  "House|||1950-1966|||Partial/limited insulation": [
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 10
+    },
+    {
+      "text": "Solar water heating",
+      "count": 10
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 9
+    },
+    {
+      "text": "Flat roof or sloping ceiling insulation",
+      "count": 8
+    },
+    {
+      "text": "Hot water cylinder thermostat",
+      "count": 2
+    }
+  ],
+  "House|||1967-1975|||Insulated": [
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 91
+    },
+    {
+      "text": "Solar water heating",
+      "count": 88
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 86
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 32
+    },
+    {
+      "text": "Replace boiler with new condensing boiler",
+      "count": 24
+    }
+  ],
+  "House|||1967-1975|||No insulation": [
+    {
+      "text": "Solar water heating",
+      "count": 98
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 98
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 88
+    },
+    {
+      "text": "Cavity wall insulation",
+      "count": 81
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 39
+    }
+  ],
+  "House|||1967-1975|||Partial/limited insulation": [
+    {
+      "text": "Solar water heating",
+      "count": 23
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 23
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 21
+    },
+    {
+      "text": "Flat roof or sloping ceiling insulation",
+      "count": 12
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 9
+    }
+  ],
+  "House|||1976-1982|||Insulated": [
+    {
+      "text": "Solar water heating",
+      "count": 30
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 30
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 29
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 14
+    },
+    {
+      "text": "Replace boiler with new condensing boiler",
+      "count": 13
+    }
+  ],
+  "House|||1976-1982|||Partial/limited insulation": [
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 45
+    },
+    {
+      "text": "Solar water heating",
+      "count": 43
+    },
+    {
+      "text": "Cavity wall insulation",
+      "count": 42
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 42
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 19
+    }
+  ],
+  "House|||1983-1990|||Insulated": [
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 61
+    },
+    {
+      "text": "Solar water heating",
+      "count": 57
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 55
+    },
+    {
+      "text": "Replace boiler with new condensing boiler",
+      "count": 28
+    },
+    {
+      "text": "Increase loft insulation to 270\u00a0mm",
+      "count": 22
+    }
+  ],
+  "House|||1991-1995|||Insulated": [
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 23
+    },
+    {
+      "text": "Solar water heating",
+      "count": 23
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 16
+    },
+    {
+      "text": "Replace boiler with new condensing boiler",
+      "count": 14
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 6
+    }
+  ],
+  "House|||1996-2002|||Insulated": [
+    {
+      "text": "Solar water heating",
+      "count": 33
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 33
+    },
+    {
+      "text": "Replace boiler with new condensing boiler",
+      "count": 24
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 9
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 9
+    }
+  ],
+  "House|||2003-2006|||Insulated": [
+    {
+      "text": "Solar water heating",
+      "count": 5
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 5
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 3
+    },
+    {
+      "text": "Replace boiler with new condensing boiler",
+      "count": 1
+    },
+    {
+      "text": "Increase loft insulation to 270\u00a0mm",
+      "count": 1
+    }
+  ],
+  "House|||2007-2011|||Insulated": [
+    {
+      "text": "Add additional 80\u00a0mm jacket to hot water cylinder",
+      "count": 3
+    },
+    {
+      "text": "Heating controls (time and temperature zone control)",
+      "count": 3
+    },
+    {
+      "text": "Solar water heating",
+      "count": 3
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 3
+    }
+  ],
+  "House|||2012 onwards|||Insulated": [
+    {
+      "text": "Solar water heating",
+      "count": 3
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 3
+    },
+    {
+      "text": "Heat recovery system for mixer showers",
+      "count": 2
+    },
+    {
+      "text": "High heat retention storage heaters",
+      "count": 1
+    }
+  ],
+  "House|||2012 onwards|||Modern/quantified": [
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 7
+    },
+    {
+      "text": "Solar water heating",
+      "count": 4
+    }
+  ],
+  "House|||before 1900|||Insulated": [
+    {
+      "text": "Solar water heating",
+      "count": 3
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 3
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 2
+    },
+    {
+      "text": "Increase loft insulation to 270\u00a0mm",
+      "count": 1
+    },
+    {
+      "text": "Floor insulation (suspended floor)",
+      "count": 1
+    }
+  ],
+  "House|||before 1900|||No insulation": [
+    {
+      "text": "Internal or external wall insulation",
+      "count": 1069
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 1053
+    },
+    {
+      "text": "Solar water heating",
+      "count": 977
+    },
+    {
+      "text": "Floor insulation (suspended floor)",
+      "count": 770
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 322
+    }
+  ],
+  "House|||before 1900|||Other/unknown": [
+    {
+      "text": "Replace single glazed windows with low-E double glazed windows",
+      "count": 1
+    },
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 1
+    },
+    {
+      "text": "Draught proofing",
+      "count": 1
+    },
+    {
+      "text": "Solar water heating",
+      "count": 1
+    }
+  ],
+  "Maisonette|||1900-1929|||Insulated": [
+    {
+      "text": "High heat retention storage heaters",
+      "count": 1
+    },
+    {
+      "text": "Heat recovery system for mixer showers",
+      "count": 1
+    },
+    {
+      "text": "Flat roof or sloping ceiling insulation",
+      "count": 1
+    },
+    {
+      "text": "Replace single glazed windows with low-E double glazed windows",
+      "count": 1
+    },
+    {
+      "text": "Draught proofing",
+      "count": 1
+    }
+  ],
+  "Maisonette|||1900-1929|||No insulation": [
+    {
+      "text": "Internal or external wall insulation",
+      "count": 13
+    },
+    {
+      "text": "Replace single glazed windows with low-E double glazed windows",
+      "count": 6
+    },
+    {
+      "text": "Increase loft insulation to 270\u00a0mm",
+      "count": 4
+    },
+    {
+      "text": "Draught proofing",
+      "count": 3
+    },
+    {
+      "text": "Room-in-roof insulation",
+      "count": 3
+    }
+  ],
+  "Maisonette|||1930-1949|||Insulated": [
+    {
+      "text": "Flat roof or sloping ceiling insulation",
+      "count": 1
+    },
+    {
+      "text": "Room-in-roof insulation",
+      "count": 1
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 1
+    },
+    {
+      "text": "High heat retention storage heaters and dual immersion cylinder",
+      "count": 1
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 1
+    }
+  ],
+  "Maisonette|||1930-1949|||No insulation": [
+    {
+      "text": "Cavity wall insulation",
+      "count": 3
+    },
+    {
+      "text": "Room-in-roof insulation",
+      "count": 2
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 2
+    },
+    {
+      "text": "Flat roof or sloping ceiling insulation",
+      "count": 1
+    },
+    {
+      "text": "Internal or external wall insulation",
+      "count": 1
+    }
+  ],
+  "Maisonette|||1950-1966|||Insulated": [
+    {
+      "text": "Flat roof or sloping ceiling insulation",
+      "count": 4
+    },
+    {
+      "text": "Replace boiler with new condensing boiler",
+      "count": 4
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 3
+    },
+    {
+      "text": "Add additional 80\u00a0mm jacket to hot water cylinder",
+      "count": 3
+    },
+    {
+      "text": "Internal or external wall insulation",
+      "count": 3
+    }
+  ],
+  "Maisonette|||1950-1966|||No insulation": [
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 19
+    },
+    {
+      "text": "Flat roof or sloping ceiling insulation",
+      "count": 17
+    },
+    {
+      "text": "Replacement glazing units",
+      "count": 16
+    },
+    {
+      "text": "Internal or external wall insulation",
+      "count": 12
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 12
+    }
+  ],
+  "Maisonette|||1967-1975|||Insulated": [
+    {
+      "text": "Replace boiler with new condensing boiler",
+      "count": 2
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 2
+    },
+    {
+      "text": "Flat roof or sloping ceiling insulation",
+      "count": 1
+    },
+    {
+      "text": "High heat retention storage heaters",
+      "count": 1
+    },
+    {
+      "text": "Draught proofing",
+      "count": 1
+    }
+  ],
+  "Maisonette|||1967-1975|||No insulation": [
+    {
+      "text": "Cavity wall insulation",
+      "count": 6
+    },
+    {
+      "text": "Flat roof or sloping ceiling insulation",
+      "count": 6
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 3
+    },
+    {
+      "text": "Replace boiler with new condensing boiler",
+      "count": 2
+    },
+    {
+      "text": "Room-in-roof insulation",
+      "count": 2
+    }
+  ],
+  "Maisonette|||1967-1975|||Partial/limited insulation": [
+    {
+      "text": "Flat roof or sloping ceiling insulation",
+      "count": 1
+    },
+    {
+      "text": "High heat retention storage heaters",
+      "count": 1
+    }
+  ],
+  "Maisonette|||1976-1982|||Insulated": [
+    {
+      "text": "Increase loft insulation to 270\u00a0mm",
+      "count": 5
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 2
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 1
+    },
+    {
+      "text": "Insulate hot water cylinder with 80\u00a0mm jacket",
+      "count": 1
+    },
+    {
+      "text": "High performance external doors",
+      "count": 1
+    }
+  ],
+  "Maisonette|||1976-1982|||Partial/limited insulation": [
+    {
+      "text": "Flat roof or sloping ceiling insulation",
+      "count": 1
+    },
+    {
+      "text": "Room-in-roof insulation",
+      "count": 1
+    },
+    {
+      "text": "Cavity wall insulation",
+      "count": 1
+    },
+    {
+      "text": "High heat retention storage heaters",
+      "count": 1
+    }
+  ],
+  "Maisonette|||1983-1990|||Insulated": [
+    {
+      "text": "High heat retention storage heaters",
+      "count": 3
+    },
+    {
+      "text": "Replace single glazed windows with low-E double glazed windows",
+      "count": 3
+    },
+    {
+      "text": "Party wall insulation",
+      "count": 2
+    },
+    {
+      "text": "Increase loft insulation to 270\u00a0mm",
+      "count": 2
+    },
+    {
+      "text": "Draught proofing",
+      "count": 1
+    }
+  ],
+  "Maisonette|||2003-2006|||Insulated": [
+    {
+      "text": "High heat retention storage heaters and dual immersion cylinder",
+      "count": 2
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 1
+    },
+    {
+      "text": "High heat retention storage heaters",
+      "count": 1
+    }
+  ],
+  "Maisonette|||2007-2011|||Insulated": [
+    {
+      "text": "Heat recovery system for mixer showers",
+      "count": 2
+    }
+  ],
+  "Maisonette|||2012 onwards|||Insulated": [
+    {
+      "text": "Draught proofing",
+      "count": 1
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 1
+    },
+    {
+      "text": "High heat retention storage heaters and dual immersion cylinder",
+      "count": 1
+    },
+    {
+      "text": "Replace single glazed windows with low-E double glazed windows",
+      "count": 1
+    }
+  ],
+  "Maisonette|||before 1900|||No insulation": [
+    {
+      "text": "Internal or external wall insulation",
+      "count": 28
+    },
+    {
+      "text": "Replace single glazed windows with low-E double glazed windows",
+      "count": 15
+    },
+    {
+      "text": "Room-in-roof insulation",
+      "count": 8
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 6
+    },
+    {
+      "text": "Draught proofing",
+      "count": 6
+    }
+  ],
+  "__GLOBAL__": [
+    {
+      "text": "Solar photovoltaic panels, 2.5 kWp",
+      "count": 3540
+    },
+    {
+      "text": "Solar water heating",
+      "count": 3352
+    },
+    {
+      "text": "Internal or external wall insulation",
+      "count": 2436
+    },
+    {
+      "text": "Floor insulation (solid floor)",
+      "count": 2106
+    },
+    {
+      "text": "Floor insulation (suspended floor)",
+      "count": 1586
+    },
+    {
+      "text": "Low energy lighting for all fixed outlets",
+      "count": 1472
+    },
+    {
+      "text": "Cavity wall insulation",
+      "count": 838
+    },
+    {
+      "text": "Replace boiler with new condensing boiler",
+      "count": 822
+    },
+    {
+      "text": "Increase loft insulation to 270\u00a0mm",
+      "count": 655
+    },
+    {
+      "text": "Flat roof or sloping ceiling insulation",
+      "count": 644
+    },
+    {
+      "text": "Replace single glazed windows with low-E double glazed windows",
+      "count": 590
+    },
+    {
+      "text": "Heating controls (room thermostat)",
+      "count": 304
+    }
+  ]
+}
